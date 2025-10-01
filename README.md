@@ -8,4 +8,8 @@
 <h1> Q-3.c</h1>
 <img width="1347" height="356" alt="Screenshot 2025-10-01 100913" src="https://github.com/user-attachments/assets/3c5b8a0b-dd11-4a00-8983-93ed620dec15" />
 
+<h1> Q-4.c</h1>
+<img width="1348" height="337" alt="Screenshot 2025-10-01 101638" src="https://github.com/user-attachments/assets/0365d15c-27c5-4477-b712-bb4f70972145" />
+
+
 
